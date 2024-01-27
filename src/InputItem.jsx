@@ -18,6 +18,7 @@ function InputItem(props) {
         name="groceryItem"
         value={props.groceryItem}
         onChange={handleChange}
+        placeholder="Enter Item"
       />
       <button type="submit">Add Item</button>
     </form>
