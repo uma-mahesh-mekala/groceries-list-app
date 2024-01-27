@@ -1,3 +1,7 @@
+# groceries-list-app
+This application lets you keep track of your groceries list. For Now this is pure frontend and there is no integration with database or any servers. You can add your items in here, but once you refresh they will be gone.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
